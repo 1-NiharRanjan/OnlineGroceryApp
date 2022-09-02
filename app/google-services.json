@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1017960165429",
+    "firebase_url": "https://newraf-bad8c.firebaseio.com",
+    "project_id": "newraf-bad8c",
+    "storage_bucket": "newraf-bad8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017960165429:android:e40dd966230664e80ac17c",
+        "android_client_info": {
+          "package_name": "com.techview.QuarterBill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017960165429-d60j58f0r2eubbma956jfje00k9ltqao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNV1il_a8P_iccfalnLYqoa2mFDvrGNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017960165429-d60j58f0r2eubbma956jfje00k9ltqao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017960165429:android:f0c87a498cfbdc030ac17c",
+        "android_client_info": {
+          "package_name": "techview.gdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017960165429-d60j58f0r2eubbma956jfje00k9ltqao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNV1il_a8P_iccfalnLYqoa2mFDvrGNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017960165429-d60j58f0r2eubbma956jfje00k9ltqao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
